@@ -1,0 +1,15 @@
+{
+  "name": "allergy_app",
+  "version": "1.0.0",
+  "description": "Displays allergies for current patient being viewed in EHR",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Stowe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
